@@ -1,0 +1,14 @@
+{
+    "name": "zouhuigang/php-esc",
+    "description": "\"es search package\"",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zouhuigang",
+            "email": "952750120@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
