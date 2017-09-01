@@ -1,7 +1,17 @@
 ### esc库使用说明
 
 
+
 ### 使用方法
+
+下载
+
+	composer require "zouhuigang/phpesc:dev-master" 
+	composer remove "zouhuigang/phpesc:dev-master" //移除,但是不删除本地的库文件
+
+想要彻底删除，可以在根目录中的composer.json将本库移除掉，然后composer update,即可删除本地库文件
+
+使用
 
 	use package\phpesc as phpesc;
 	$esc=new phpesc\Esc();
