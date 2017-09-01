@@ -72,6 +72,19 @@
 
 
 
+### 使用webhook,同步github库到packagist
+
+![./images/webhook1.png](./images/webhook1.png)
+
+
+![./images/webhook2.png](./images/webhook2.png)
+
+api_token查看地址：
+
+	https://packagist.org/profile/
+
+
+
 
 
 
