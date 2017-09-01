@@ -1,11 +1,11 @@
 {
-    "name": "hou/composer-car",
-    "description": "In order to study composer",
+    "name": "zouhuigang/phpesc",
+    "description": "php esc search",
     "license": "MIT",
     "authors": [
         {
-            "name": "GeHou",
-            "email": "***@gmail.com"
+            "name": "zouhuigang",
+            "email": "952750120@qq.com"
         }
     ],
     "minimum-stability": "dev",
